@@ -1,0 +1,6 @@
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/inheritance-02/inheritance-02/bin/Debug/inheritance_02.exe
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/inheritance-02/inheritance-02/bin/Debug/inheritance_02.pdb
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/inheritance-02/inheritance-02/obj/Debug/inheritance-02.csproj.AssemblyReference.cache
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/inheritance-02/inheritance-02/obj/Debug/inheritance-02.csproj.CoreCompileInputs.cache
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/inheritance-02/inheritance-02/obj/Debug/inheritance_02.exe
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/inheritance-02/inheritance-02/obj/Debug/inheritance_02.pdb
